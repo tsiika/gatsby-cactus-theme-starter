@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-cactus-theme-starter",
+  "private": true,
+  "description": "Gatsby starter with Cactus theme",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^2.1.19",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
