@@ -12,11 +12,19 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^2.1.19",
+    "gatsby": "^2.3.24",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
   },
   "devDependencies": {
-    "prettier": "^1.16.4"
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-react": "^7.12.4",
+    "lint-staged": "^8.1.5",
+    "prettier": "^1.16.4",
+    "stylelint": "^10.0.1",
+    "stylelint-config-recommended": "^2.2.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.6.0"
   }
 }
